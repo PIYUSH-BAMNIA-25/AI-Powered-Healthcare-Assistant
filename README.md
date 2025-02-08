@@ -7,15 +7,12 @@ AI-Powered Healthcare Assistant is a machine learning-based project that leverag
 ✅ Symptom-based disease prediction  
 ✅ Interactive UI with **Streamlit**  
 ✅ Machine learning pipelines for efficient processing  
-✅ Data visualization for better insights  
 ✅ Scalable and easy to deploy  
 
 ## 🛠️ Tech Stack
 - **Python** 🐍
 - **Streamlit** 🎨
-- **Scikit-Learn** 🤖
-- **Pandas & NumPy** 📊
-- **Matplotlib & Seaborn** 📈
+- **Transformer**
 
 ## 📦 Installation
 To run this project locally, follow these steps:
@@ -42,28 +39,13 @@ streamlit run app.py
 3. Get predictions and suggestions based on the trained model.
 4. Explore visualizations for better understanding.
 
-## 📁 Project Structure
-```
-📂 ai-healthcare
-├── 📁 data          # Dataset used for training
-├── 📁 models        # Saved ML models
-├── 📁 scripts       # Utility scripts
-├── app.py          # Main Streamlit app
-├── pipeline.py     # ML Pipeline implementation
-├── requirements.txt # Dependencies
-└── README.md       # Project documentation
-```
-
 ## 🤝 Contributing
 Feel free to contribute! Open a pull request or raise an issue if you find a bug or have suggestions. 🚀
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ## 📬 Contact
 For queries or collaboration, reach out:  
-📧 Email: your-email@example.com  
-🐦 Twitter: [@your_handle](https://twitter.com/)  
+📧 Email: piyushbamnia25@gmail.com 
+🐦 Linkedin: [Piyush_Bamnia](https://www.linkedin.com/in/piyush-bamnia-ab09ab255/)  
 
 ---
 
