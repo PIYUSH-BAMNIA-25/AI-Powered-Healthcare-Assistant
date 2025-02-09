@@ -14,25 +14,6 @@ AI-Powered Healthcare Assistant is a machine learning-based project that leverag
 - **Streamlit** 🎨
 - **Transformer**
 
-## 📦 Installation
-To run this project locally, follow these steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/ai-healthcare.git
-cd ai-healthcare
-
-# Create a virtual environment
-python -m venv env
-source env/bin/activate  # On Windows use: env\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Streamlit app
-streamlit run app.py
-```
-
 ## 🏃‍♂️ Usage
 1. Open the **Streamlit UI** in your browser.
 2. Enter your symptoms or health data.
